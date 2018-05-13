@@ -1,0 +1,1 @@
+The script [generate.sh](generate.sh) generates simulated instances. This script requires the `simulate` executable from the [MACHINA repository](https://github.com/raphael-group/machina). To compile, please use `make simulate` in the build directory of MACHINA.

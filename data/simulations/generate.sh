@@ -5,7 +5,7 @@ then
     exit 1
 fi
 
-for mut in {0.1,1,10}
+for mut in {0.1,1}
 do
     for m in {3,5,7,9}
     do
